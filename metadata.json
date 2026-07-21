@@ -1,0 +1,6 @@
+{
+  "name": "TITAN ELITE",
+  "description": "Premium performance training and luxury fitness experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
